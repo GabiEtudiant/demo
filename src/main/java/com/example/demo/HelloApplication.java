@@ -21,5 +21,6 @@ public class HelloApplication extends Application {
         launch();
 
         System.out.println("allo");
+        System.out.println("bye");
     }
 }
